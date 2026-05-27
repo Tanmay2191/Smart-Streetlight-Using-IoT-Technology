@@ -9,6 +9,16 @@ An energy-efficient, IoT-enabled street lighting system written in C. This proje
     *   PIR Motion Sensor for object detection.
 *   **Actuators:** LEDs
 
+*   ## 📊 System Flowchart
+This flowchart illustrates the decision-making logic of the microcontroller based on light levels and motion detection:
+
+![System Flowchart](diagrams/SMART_CITY_SOFTWARE_FLOW_CHART.jpg)
+
+## ⚡ Circuit Diagram
+Below is the hardware wiring diagram showing the connections between the sensors and the controller:
+
+![Circuit Diagram](diagrams/Proposed_system_block_Diagram.jpg)
+
 ## 🗂️ Project Structure
 *   `/src`: Contains all C source code and hardware drivers.
 *   `/hardware`: Contains the circuit schematic and pin wiring.
