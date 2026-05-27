@@ -1,3 +1,5 @@
+![Year](https://img.shields.io/badge/Developed-2022-blue)
+
 # 💡 Smart Street Light System (IoT)
 
 An energy-efficient, IoT-enabled street lighting system written in C. This project automates street illumination based on ambient light and motion detection to optimize power consumption.
